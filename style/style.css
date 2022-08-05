@@ -1,0 +1,165 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1110px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+
+.img-logo {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 79px;
+    padding-top: 50px;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 38px;
+    list-style: none;
+}
+
+.nav-link {
+    display: flex;
+    margin-right: 30px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #8C8A8A;
+}
+
+.header-content {
+    display: flex;
+    justify-content: center;
+}
+.city_picture{
+    width: 100%;
+}
+.main-content {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    column-gap: 30px;
+}
+
+.first {
+    background: #F0F0F0;
+    padding: 50px 40px;
+    max-width: 730px;
+    width: 100%;
+}
+
+.topic {
+    display: block;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    font-family: arial;
+    color: #4581B7;
+    margin-bottom: 25px;
+}
+
+.topic2 {
+    display: block;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    font-family: arial;
+    color: #4581B7;
+    margin-bottom: 25px;
+
+}
+
+.second {
+    background: #F0F0F0;
+    padding: 50px 25px ;
+    max-width: 350px;
+    width: 100%;
+}
+
+.text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    font-family: arial;
+    width: 595px;
+    color: #808080;
+}
+
+.paragraph {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    font-family: arial;
+    width: 286px;
+    color: #808080;
+
+}
+.info{
+    color: #808080;
+}
+
+
+.number {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    font-family: arial;
+    color: #808080;
+    display: block;
+    margin-top: 20px;
+}
+
+.nick {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    font-family: arial;
+    color: #808080;
+    display: block;
+    margin-top: 40px;
+}
+
+
+.footer-content {
+
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    background: #F0F0F0;
+   padding: 15px 40px;
+}
+
+
+
+.last {
+   display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 20px;
+
+}
+
+.one {
+    margin-bottom: 10px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    font-family: arial;
+    color: #808080;
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 29px;
+    color: #808080;
+    font-family: arial;
+}
